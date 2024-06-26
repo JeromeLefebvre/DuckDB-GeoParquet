@@ -1,0 +1,9 @@
+# MacOS
+.DS_Store
+
+# Python
+venv/
+
+# Temporary copy of the GitHub repo
+# https://github.com/opengeospatial/geoparquet
+GitHub/
