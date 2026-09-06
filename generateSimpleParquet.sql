@@ -1,3 +1,4 @@
+load spatial;
 
 -- Create a simple geoparquet file
 copy (
